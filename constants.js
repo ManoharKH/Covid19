@@ -1,3 +1,5 @@
+#Includes list of medical colleges
+
 export const STORE_KEYS = {
     CASE_COUNTS: "case_counts",
 
